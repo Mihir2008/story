@@ -2,3 +2,4 @@ soilder
 monkey
 crocodile
 parrot
+bunny
